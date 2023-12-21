@@ -1,0 +1,14 @@
+#searchicon_vbox{
+    -fx-background-radius: 50%;
+    -fx-border-radius: 50%;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+}
+#add_utilisateur_vbox{
+ -fx-background-radius: 50%;
+                                  -fx-border-radius: 50%;
+                                  -fx-background-color: transparent;
+                                  -fx-border-color: transparent;
+                                  -fx-border-width: 0;
+                                  }
